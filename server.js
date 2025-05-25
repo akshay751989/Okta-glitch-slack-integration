@@ -6,7 +6,7 @@ const app  = express();
 const PORT = process.env.PORT || 3000;
 
 /* -----------------------  CONFIG  ----------------------- */
-const SLACK_WEBHOOK_URL = process.env.SLACK_WEBHOOK_URL;
+const SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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";
 if (!SLACK_WEBHOOK_URL) {
   console.error("❌  Set SLACK_WEBHOOK_URL in the .env file!");
   process.exit(1);
