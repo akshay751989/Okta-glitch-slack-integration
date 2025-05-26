@@ -1,6 +1,6 @@
 **Okta-ngrok-slack-integration 🚀**
 
-<img width="383" alt="image" src="https://github.com/user-attachments/assets/801d2a07-c8c3-4760-8fce-b21bee5a50b2" />
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/801d2a07-c8c3-4760-8fce-b21bee5a50b2" />
 
 
 Automated Alerting for Okta Group Membership Changes with Slack Notifications
