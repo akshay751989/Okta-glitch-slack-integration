@@ -8,7 +8,7 @@
     "actor": {
       "id": "00u10s8t19rLHtoM8358",
       "type": "User",
-      "alternateId": "admin.user@samsara.com",
+      "alternateId": "admin.user@akshay.com",
       "displayName": "Admin User"
     },
     "outcome": {
@@ -18,7 +18,7 @@
       {
         "id": "00uqc6tqoofqTZ6Hy357",
         "type": "User",
-        "alternateId": "removed.user@samsara.com",
+        "alternateId": "removed.user@akshay.com",
         "displayName": "Removed User"
       },
       {
